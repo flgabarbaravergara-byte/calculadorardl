@@ -1,6 +1,6 @@
 # Calculadora de Evaluación Fonoaudiológica — Módulo 3
 
-Proyecto final del **Módulo 3: Fundamentos de programación en JavaScript** (curso Aalkemy).
+Proyecto final del **Módulo 3: Fundamentos de programación en JavaScript** 
 
 ## Objetivo del proyecto
 
